@@ -30,6 +30,9 @@ my %META = (
       file => 'lib/Acme/PodOnly.pod',
       version => '0.001002',
     },
+    'Acme::PodOnly::NoVersion' => {
+      file => 'lib/Acme/PodOnly/NoVersion.pod',
+    },
   },
   resources => {
     repository => {
