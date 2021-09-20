@@ -28,7 +28,7 @@ my %META = (
   provides => {
     'Acme::PodOnly' => {
       file => 'lib/Acme/PodOnly.pod',
-      version => '0.001001',
+      version => '0.001002',
     },
   },
   resources => {
@@ -52,7 +52,7 @@ my %META = (
 );
 
 my %MM_ARGS = (
-  VERSION => '0.001001',
+  VERSION => '0.001002',
   ABSTRACT_FROM => 'lib/Acme/PodOnly.pod',
 );
 
