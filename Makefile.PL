@@ -33,6 +33,14 @@ my %META = (
     'Acme::PodOnly::NoVersion' => {
       file => 'lib/Acme/PodOnly/NoVersion.pod',
     },
+    'Acme::PodOnly::NoFile' => {
+      file => undef,
+      version => '0.001002',
+    },
+    'Acme::PodOnly::MissingFile' => {
+      file => 'lib/Acme/PodOnly/MissingFile.pod',
+      version => '0.001002',
+    },
   },
   resources => {
     repository => {
