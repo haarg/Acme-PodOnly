@@ -1,5 +1,6 @@
 Revision history for Acme-PodOnly
 
+0.001002 - 2021-09-20
   - include version number in provides data
   - add provides data for pod file with no version
   - add provides data for pod file that doesn't exist
