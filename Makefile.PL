@@ -52,6 +52,7 @@ my %META = (
 
 my %MM_ARGS = (
   VERSION => '0.001001',
+  ABSTRACT_FROM => 'lib/Acme/PodOnly.pod',
 );
 
 ## BOILERPLATE ###############################################################
