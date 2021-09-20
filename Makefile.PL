@@ -28,6 +28,7 @@ my %META = (
   provides => {
     'Acme::PodOnly' => {
       file => 'lib/Acme/PodOnly.pod',
+      version => '0.001001',
     },
   },
   resources => {
